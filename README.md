@@ -1,7 +1,7 @@
 ### 5+ years of experience creating and maintaining web applications using variety of technologies including PHP , Laravel , Wordpress , Node , Linux , Git, Android  and penetration testing .
 - 🔭 I’m currently working on Wordpress Plugin Development
 - 🌱 I’m currently learning Three.js
-- 💬 Ask me anything about Wordpress development
+- 💬 Ask me anything about Wordpress development & PHP
 - 📫 How to reach me: prappo.prince@gmail.com
 <img src="https://media.tenor.com/images/f38e928f2a6c074324a48bf161603271/tenor.gif">
 <!--

@@ -1,5 +1,7 @@
 <h2>👋 I'm Prappo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-## 5+ years of experience creating and maintaining web applications using variety of technologies including PHP , Laravel , Wordpress , Node , Linux , Git, Android  and penetration testing .
+
+5+ years of experience creating and maintaining web applications using variety of technologies including PHP , Laravel , Wordpress , Node , Linux , Git, Android  and penetration testing .
+
 - 🔭 I’m currently working on Wordpress Plugin Development 🚀
 - 🌱 I’m currently learning Three.js 🌎
 - 💬 Ask me anything about Wordpress development , PHP & JS 🦄

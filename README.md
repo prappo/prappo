@@ -2,10 +2,12 @@
 
 5+ years of experience creating and maintaining web applications using variety of technologies including PHP , Laravel , Wordpress , Node Js , Linux , Git, Android  and penetration testing .
 
+
 - 🔭 I’m currently working on Wordpress Plugin Development 🚀
 - 🌱 I’m currently learning Three.js 🌎
 - 💬 Ask me anything about Wordpress development , PHP & JS 🦄
 - 📫 How to reach me: prappo.prince@gmail.com
+
 
 
 ### Languages and Tools
@@ -22,3 +24,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+![Prappo's github stats](https://github-readme-stats.vercel.app/api?username=prappo&show_icons=true&theme=dracula)

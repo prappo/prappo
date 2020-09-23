@@ -1,11 +1,7 @@
 <h2>👋 I'm Prappo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 - 🔭 I’m currently working on Wordpress Plugin Development 🚀
-- 🌱 I’m currently learning Three.js 🌎
 - 💬 Ask me anything about Wordpress development , PHP & JS 🦄
-- 📫 How to reach me: prappo.prince@gmail.com
-
-
 
 ### Languages and Tools
 

@@ -1,6 +1,6 @@
 <h2>👋 I'm Prappo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-- 💬 Ask me anything about Wordpress , PHP & JS 🦄
+- 💬 Ask me anything about Wordpress , Laravel, PHP & JS 🦄
 
 ### Languages and Tools
 

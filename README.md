@@ -1,6 +1,7 @@
 <h2>👋 I'm Prappo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 - ❤️ to work with Wordpress , Laravel, PHP & JS 🦄
+- Machine learning enthusiast
 
 ### Languages and Tools
 
